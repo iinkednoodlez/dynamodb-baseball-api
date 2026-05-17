@@ -27,5 +27,16 @@ This project focused on building a cloud-based baseball statistics API using AWS
 - Lambda integrations
 - Cloud database management
 
+## Screenshots
+
+### DynamoDB Local Running
+![DynamoDB Local](screenshots/dynamodb-local-running.png)
+
+### AWS CLI List Tables
+![AWS CLI](screenshots/aws-cli-list-tables.png)
+
+### Player Filter Results
+![Player Filter](screenshots/player-filter-results.png)
+
 ## Author
 Maipa Ly
